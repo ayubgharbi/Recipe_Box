@@ -13,8 +13,7 @@ gem 'simple_form', '~> 3.2.1'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'paperclip', '~> 4.3.6'
 gem 'cocoon', '~> 1.2.9'
-gem 'devise', '~> 4.0.0'
-
+gem 'devise', '~> 4.1.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
